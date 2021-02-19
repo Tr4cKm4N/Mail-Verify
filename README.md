@@ -14,7 +14,7 @@ Mail-Verify es una herramienta construida en Python.
     cd Mail-Verify
     pip install -r requirements.txt
     chmod +x Mail-Verify.py
-    python Mail-Verify.py -h
+    python3 Mail-Verify.py -h
 **Probado en:**
 >     Windows
 >     Parrot
