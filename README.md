@@ -2,6 +2,10 @@
 
 Revisa si uno o varios  correos eléctronicos se encuentra en una fuga de datos
 Mail-Verify es una herramienta construida en Python.
+ <p align="center">
+  <img src="https://i.postimg.cc/J0TB2PW7/MailVer.png" alt="PANEL INSTALACIÓN">
+</p>
+
 **Requerimientos**
 
     Python 2.7 o superior
